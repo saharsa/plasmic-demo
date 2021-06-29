@@ -7,7 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@plasmicapp/cli": "^0.1.157",
     "@plasmicapp/loader": "^0.0.48",
+    "@plasmicapp/react-web": "^0.2.62",
     "classnames": "2.3.1",
     "date-fns": "2.21.3",
     "gray-matter": "4.0.3",
